@@ -1,0 +1,3288 @@
+curs:
+	idle:
+		Filename: assets/curs.png
+		Start: 0
+		Length: 32
+
+lns:
+	idle:
+		Filename: assets/lns.png
+		Start: 0
+		Length: 66
+
+beon:
+	idle:
+		Filename: assets/beon.png
+		Start: 0
+		Length: 65
+
+hyk:
+	idle:
+		Filename: assets/hyk.png
+		Start: 0
+		Length: 66
+
+xeno:
+	idle:
+		Filename: assets/xeno.png
+		Start: 0
+		Length: 66
+
+lna:
+	idle:
+		Filename: assets/lna.png
+		Start: 0
+		Length: 66
+
+slug:
+	idle:
+		Filename: assets/slug.png
+		Start: 0
+		Length: 65
+
+ortu:
+	idle:
+		Filename: assets/ortu.png
+		Start: 0
+		Length: 65
+
+scgm:
+	idle:
+		Filename: assets/scgm.png
+		Start: 0
+		Length: 65
+
+reap:
+	idle:
+		Filename: assets/reap.png
+		Start: 0
+		Length: 66
+
+syth:
+	idle:
+		Filename: assets/syth.png
+		Start: 0
+		Length: 65
+
+slom:
+	idle:
+		Filename: assets/slom.png
+		Start: 0
+		Length: 65
+
+drop:
+	idle:
+		Filename: assets/drop.png
+		Start: 0
+		Length: 66
+
+barr:
+	idle:
+		Filename: assets/barr.png
+		Start: 0
+		Length: 65
+
+atril:
+	idle:
+		Filename: assets/atril.png
+		Start: 0
+		Length: 65
+
+psych:
+	idle:
+		Filename: assets/psych.png
+		Start: 0
+		Length: 66
+
+troop:
+	idle:
+		Filename: assets/troop.png
+		Start: 0
+		Length: 66
+
+zisp:
+	idle:
+		Filename: assets/zisp.png
+		Start: 0
+		Length: 66
+
+expl:
+	idle:
+		Filename: assets/expl.png
+		Start: 0
+		Length: 65
+
+sauc:
+	idle:
+		Filename: assets/sauc.png
+		Start: 0
+		Length: 66
+
+gray:
+	idle:
+		Filename: assets/gray.png
+		Start: 0
+		Length: 66
+
+tkt:
+	idle:
+		Filename: assets/tkt.png
+		Start: 0
+		Length: 66
+
+mkt:
+	idle:
+		Filename: assets/mkt.png
+		Start: 0
+		Length: 66
+
+cybo:
+	idle:
+		Filename: assets/cybo.png
+		Start: 0
+		Length: 65
+
+engi:
+	idle:
+		Filename: assets/engi.png
+		Start: 0
+		Length: 65
+
+turr:
+	idle:
+		Filename: assets/turr.png
+		Start: 0
+		Length: 65
+
+dcss:
+	idle:
+		Filename: assets/dcss.png
+		Start: 0
+		Length: 29
+
+misc:
+	idle:
+		Filename: assets/misc.png
+		Start: 0
+		Length: 18
+
+grub:
+	idle:
+		Filename: assets/grub.png
+		Start: 0
+		Length: 66
+
+avii:
+	idle:
+		Filename: assets/avii.png
+		Start: 0
+		Length: 92
+
+tong:
+	idle:
+		Filename: assets/tong.png
+		Start: 0
+		Length: 10
+
+misb:
+	idle:
+		Filename: assets/misb.png
+		Start: 0
+		Length: 22
+
+towr:
+	idle:
+		Filename: assets/towr.png
+		Start: 0
+		Length: 1
+
+chab:
+	idle:
+		Filename: assets/chab.png
+		Start: 0
+		Length: 29
+
+truk:
+	idle:
+		Filename: assets/truk.png
+		Start: 0
+		Length: 14
+
+spon:
+	idle:
+		Filename: assets/spon.png
+		Start: 0
+		Length: 13
+
+fluction:
+	idle:
+		Filename: assets/fluction.png
+		Start: 0
+		Length: 24
+
+spar:
+	idle:
+		Filename: assets/spar.png
+		Start: 0
+		Length: 29
+
+beon:
+	idle:
+		Filename: assets/beon.png
+		Start: 0
+		Length: 26
+
+aird:
+	idle:
+		Filename: assets/aird.png
+		Start: 0
+		Length: 9
+
+netd:
+	idle:
+		Filename: assets/netd.png
+		Start: 0
+		Length: 30
+
+xeno:
+	idle:
+		Filename: assets/xeno.png
+		Start: 0
+		Length: 114
+
+nete:
+	idle:
+		Filename: assets/nete.png
+		Start: 0
+		Length: 14
+
+smok:
+	idle:
+		Filename: assets/smok.png
+		Start: 0
+		Length: 15
+
+misa:
+	idle:
+		Filename: assets/misa.png
+		Start: 0
+		Length: 24
+
+spuc:
+	idle:
+		Filename: assets/spuc.png
+		Start: 0
+		Length: 16
+
+hubu:
+	idle:
+		Filename: assets/hubu.png
+		Start: 0
+		Length: 19
+
+chaa:
+	idle:
+		Filename: assets/chaa.png
+		Start: 0
+		Length: 24
+
+srch:
+	idle:
+		Filename: assets/srch.png
+		Start: 0
+		Length: 17
+
+mise:
+	idle:
+		Filename: assets/mise.png
+		Start: 0
+		Length: 12
+
+neta:
+	idle:
+		Filename: assets/neta.png
+		Start: 0
+		Length: 13
+
+saly:
+	idle:
+		Filename: assets/saly.png
+		Start: 0
+		Length: 80
+
+ssss:
+	idle:
+		Filename: assets/ssss.png
+		Start: 0
+		Length: 8
+
+smae:
+	idle:
+		Filename: assets/smae.png
+		Start: 0
+		Length: 21
+
+misd:
+	idle:
+		Filename: assets/misd.png
+		Start: 0
+		Length: 14
+
+dish:
+	idle:
+		Filename: assets/dish.png
+		Start: 0
+		Length: 3
+
+spac:
+	idle:
+		Filename: assets/spac.png
+		Start: 0
+		Length: 21
+
+beac:
+	idle:
+		Filename: assets/beac.png
+		Start: 0
+		Length: 2
+
+dsty:
+	idle:
+		Filename: assets/dsty.png
+		Start: 0
+		Length: 28
+
+msls:
+	idle:
+		Filename: assets/msls.png
+		Start: 0
+		Length: 8
+
+misf:
+	idle:
+		Filename: assets/misf.png
+		Start: 0
+		Length: 10
+
+netb:
+	idle:
+		Filename: assets/netb.png
+		Start: 0
+		Length: 12
+
+netc:
+	idle:
+		Filename: assets/netc.png
+		Start: 0
+		Length: 10
+
+scou:
+	idle:
+		Filename: assets/scou.png
+		Start: 0
+		Length: 9
+
+toxx:
+	idle:
+		Filename: assets/toxx.png
+		Start: 0
+		Length: 1
+
+misg:
+	idle:
+		Filename: assets/misg.png
+		Start: 0
+		Length: 32
+
+egg:
+	idle:
+		Filename: assets/egg.png
+		Start: 0
+		Length: 2
+
+more:
+	idle:
+		Filename: assets/more.png
+		Start: 0
+		Length: 20
+
+shortcit:
+	idle:
+		Filename: assets/shortcit.png
+		Start: 0
+		Length: 5
+
+brit:
+	idle:
+		Filename: assets/brit.png
+		Start: 0
+		Length: 11
+
+hith:
+	idle:
+		Filename: assets/hith.png
+		Start: 0
+		Length: 4
+
+timemis:
+	idle:
+		Filename: assets/timemis.png
+		Start: 0
+		Length: 24
+
+yaba:
+	idle:
+		Filename: assets/yaba.png
+		Start: 0
+		Length: 22
+
+trooper2:
+	idle:
+		Filename: assets/trooper2.png
+		Start: 0
+		Length: 32
+
+cent:
+	idle:
+		Filename: assets/cent.png
+		Start: 0
+		Length: 12
+
+tekt:
+	idle:
+		Filename: assets/tekt.png
+		Start: 0
+		Length: 9
+
+blam:
+	idle:
+		Filename: assets/blam.png
+		Start: 0
+		Length: 18
+
+blaz:
+	idle:
+		Filename: assets/blaz.png
+		Start: 0
+		Length: 2
+
+slug:
+	idle:
+		Filename: assets/slug.png
+		Start: 0
+		Length: 90
+
+ortu:
+	idle:
+		Filename: assets/ortu.png
+		Start: 0
+		Length: 86
+
+trooper1:
+	idle:
+		Filename: assets/trooper1.png
+		Start: 0
+		Length: 32
+
+scgm:
+	idle:
+		Filename: assets/scgm.png
+		Start: 0
+		Length: 30
+
+droa:
+	idle:
+		Filename: assets/droa.png
+		Start: 0
+		Length: 14
+
+scout1:
+	idle:
+		Filename: assets/scout1.png
+		Start: 0
+		Length: 24
+
+smsp:
+	idle:
+		Filename: assets/smsp.png
+		Start: 0
+		Length: 19
+
+glat:
+	idle:
+		Filename: assets/glat.png
+		Start: 0
+		Length: 18
+
+curs:
+	idle:
+		Filename: assets/curs.png
+		Start: 0
+		Length: 38
+
+it:
+	idle:
+		Filename: assets/it.png
+		Start: 0
+		Length: 11
+
+boig:
+	idle:
+		Filename: assets/boig.png
+		Start: 0
+		Length: 2
+
+fetu:
+	idle:
+		Filename: assets/fetu.png
+		Start: 0
+		Length: 2
+
+llll:
+	idle:
+		Filename: assets/llll.png
+		Start: 0
+		Length: 5
+
+gasy:
+	idle:
+		Filename: assets/gasy.png
+		Start: 0
+		Length: 21
+
+reap:
+	idle:
+		Filename: assets/reap.png
+		Start: 0
+		Length: 108
+
+attack2:
+	idle:
+		Filename: assets/attack2.png
+		Start: 0
+		Length: 24
+
+hcar:
+	idle:
+		Filename: assets/hcar.png
+		Start: 0
+		Length: 27
+
+slom:
+	idle:
+		Filename: assets/slom.png
+		Start: 0
+		Length: 50
+
+camm:
+	idle:
+		Filename: assets/camm.png
+		Start: 0
+		Length: 17
+
+fill:
+	idle:
+		Filename: assets/fill.png
+		Start: 0
+		Length: 2
+
+level:
+	idle:
+		Filename: assets/level.png
+		Start: 0
+		Length: 50
+
+luna:
+	idle:
+		Filename: assets/luna.png
+		Start: 0
+		Length: 21
+
+drop:
+	idle:
+		Filename: assets/drop.png
+		Start: 0
+		Length: 2
+
+plasma:
+	idle:
+		Filename: assets/plasma.png
+		Start: 0
+		Length: 50
+
+shok:
+	idle:
+		Filename: assets/shok.png
+		Start: 0
+		Length: 11
+
+barr:
+	idle:
+		Filename: assets/barr.png
+		Start: 0
+		Length: 106
+
+atril:
+	idle:
+		Filename: assets/atril.png
+		Start: 0
+		Length: 113
+
+hcom:
+	idle:
+		Filename: assets/hcom.png
+		Start: 0
+		Length: 9
+
+tektara:
+	idle:
+		Filename: assets/tektara.png
+		Start: 0
+		Length: 64
+
+popppaen:
+	idle:
+		Filename: assets/popppaen.png
+		Start: 0
+		Length: 1
+
+dcut:
+	idle:
+		Filename: assets/dcut.png
+		Start: 0
+		Length: 5
+
+blah:
+	idle:
+		Filename: assets/blah.png
+		Start: 0
+		Length: 31
+
+bees:
+	idle:
+		Filename: assets/bees.png
+		Start: 0
+		Length: 29
+
+spike:
+	idle:
+		Filename: assets/spike.png
+		Start: 0
+		Length: 4
+
+hita:
+	idle:
+		Filename: assets/hita.png
+		Start: 0
+		Length: 9
+
+pusb:
+	idle:
+		Filename: assets/pusb.png
+		Start: 0
+		Length: 15
+
+encf:
+	idle:
+		Filename: assets/encf.png
+		Start: 0
+		Length: 27
+
+cryo:
+	idle:
+		Filename: assets/cryo.png
+		Start: 0
+		Length: 1
+
+mwic:
+	idle:
+		Filename: assets/mwic.png
+		Start: 0
+		Length: 8
+
+mwib:
+	idle:
+		Filename: assets/mwib.png
+		Start: 0
+		Length: 12
+
+glot:
+	idle:
+		Filename: assets/glot.png
+		Start: 0
+		Length: 24
+
+acom:
+	idle:
+		Filename: assets/acom.png
+		Start: 0
+		Length: 9
+
+tort:
+	idle:
+		Filename: assets/tort.png
+		Start: 0
+		Length: 10
+
+cyborg:
+	idle:
+		Filename: assets/cyborg.png
+		Start: 0
+		Length: 32
+
+winf:
+	idle:
+		Filename: assets/winf.png
+		Start: 0
+		Length: 12
+
+spid:
+	idle:
+		Filename: assets/spid.png
+		Start: 0
+		Length: 66
+
+sera:
+	idle:
+		Filename: assets/sera.png
+		Start: 0
+		Length: 8
+
+bloo:
+	idle:
+		Filename: assets/bloo.png
+		Start: 0
+		Length: 69
+
+luny:
+	idle:
+		Filename: assets/luny.png
+		Start: 0
+		Length: 15
+
+arty:
+	idle:
+		Filename: assets/arty.png
+		Start: 0
+		Length: 31
+
+trsc:
+	idle:
+		Filename: assets/trsc.png
+		Start: 0
+		Length: 209
+
+serc:
+	idle:
+		Filename: assets/serc.png
+		Start: 0
+		Length: 46
+
+wind:
+	idle:
+		Filename: assets/wind.png
+		Start: 0
+		Length: 21
+
+hitb:
+	idle:
+		Filename: assets/hitb.png
+		Start: 0
+		Length: 10
+
+ence:
+	idle:
+		Filename: assets/ence.png
+		Start: 0
+		Length: 22
+
+sarg:
+	idle:
+		Filename: assets/sarg.png
+		Start: 0
+		Length: 198
+
+matatrac:
+	idle:
+		Filename: assets/matatrac.png
+		Start: 0
+		Length: 25
+
+watc:
+	idle:
+		Filename: assets/watc.png
+		Start: 0
+		Length: 13
+
+mwia:
+	idle:
+		Filename: assets/mwia.png
+		Start: 0
+		Length: 10
+
+alien1:
+	idle:
+		Filename: assets/alien1.png
+		Start: 0
+		Length: 32
+
+knobe:
+	idle:
+		Filename: assets/knobe.png
+		Start: 0
+		Length: 149
+
+acar:
+	idle:
+		Filename: assets/acar.png
+		Start: 0
+		Length: 27
+
+encd:
+	idle:
+		Filename: assets/encd.png
+		Start: 0
+		Length: 16
+
+bigc:
+	idle:
+		Filename: assets/bigc.png
+		Start: 0
+		Length: 21
+
+zisp:
+	idle:
+		Filename: assets/zisp.png
+		Start: 0
+		Length: 72
+
+hitc:
+	idle:
+		Filename: assets/hitc.png
+		Start: 0
+		Length: 5
+
+vcea:
+	idle:
+		Filename: assets/vcea.png
+		Start: 0
+		Length: 37
+
+hitt:
+	idle:
+		Filename: assets/hitt.png
+		Start: 0
+		Length: 6
+
+wine:
+	idle:
+		Filename: assets/wine.png
+		Start: 0
+		Length: 8
+
+serb:
+	idle:
+		Filename: assets/serb.png
+		Start: 0
+		Length: 10
+
+sped:
+	idle:
+		Filename: assets/sped.png
+		Start: 0
+		Length: 29
+
+hitg:
+	idle:
+		Filename: assets/hitg.png
+		Start: 0
+		Length: 6
+
+wina:
+	idle:
+		Filename: assets/wina.png
+		Start: 0
+		Length: 12
+
+artiler2:
+	idle:
+		Filename: assets/artiler2.png
+		Start: 0
+		Length: 24
+
+expl:
+	idle:
+		Filename: assets/expl.png
+		Start: 0
+		Length: 50
+
+mwid:
+	idle:
+		Filename: assets/mwid.png
+		Start: 0
+		Length: 6
+
+fact:
+	idle:
+		Filename: assets/fact.png
+		Start: 0
+		Length: 3
+
+enca:
+	idle:
+		Filename: assets/enca.png
+		Start: 0
+		Length: 24
+
+fuel:
+	idle:
+		Filename: assets/fuel.png
+		Start: 0
+		Length: 1
+
+hitf:
+	idle:
+		Filename: assets/hitf.png
+		Start: 0
+		Length: 5
+
+weath:
+	idle:
+		Filename: assets/weath.png
+		Start: 0
+		Length: 50
+
+puff:
+	idle:
+		Filename: assets/puff.png
+		Start: 0
+		Length: 20
+
+sere:
+	idle:
+		Filename: assets/sere.png
+		Start: 0
+		Length: 16
+
+side:
+	idle:
+		Filename: assets/side.png
+		Start: 0
+		Length: 4
+
+dcuk:
+	idle:
+		Filename: assets/dcuk.png
+		Start: 0
+		Length: 14
+
+hitd:
+	idle:
+		Filename: assets/hitd.png
+		Start: 0
+		Length: 5
+
+winb:
+	idle:
+		Filename: assets/winb.png
+		Start: 0
+		Length: 16
+
+encc:
+	idle:
+		Filename: assets/encc.png
+		Start: 0
+		Length: 30
+
+encb:
+	idle:
+		Filename: assets/encb.png
+		Start: 0
+		Length: 14
+
+winc:
+	idle:
+		Filename: assets/winc.png
+		Start: 0
+		Length: 8
+
+dott:
+	idle:
+		Filename: assets/dott.png
+		Start: 0
+		Length: 1
+
+hite:
+	idle:
+		Filename: assets/hite.png
+		Start: 0
+		Length: 4
+
+serd:
+	idle:
+		Filename: assets/serd.png
+		Start: 0
+		Length: 18
+
+choa:
+	idle:
+		Filename: assets/choa.png
+		Start: 0
+		Length: 16
+
+sauc:
+	idle:
+		Filename: assets/sauc.png
+		Start: 0
+		Length: 9
+
+gray:
+	idle:
+		Filename: assets/gray.png
+		Start: 0
+		Length: 292
+
+duts:
+	idle:
+		Filename: assets/duts.png
+		Start: 0
+		Length: 18
+
+sala:
+	idle:
+		Filename: assets/sala.png
+		Start: 0
+		Length: 1
+
+scyt:
+	idle:
+		Filename: assets/scyt.png
+		Start: 0
+		Length: 127
+
+clod:
+	idle:
+		Filename: assets/clod.png
+		Start: 0
+		Length: 11
+
+smoa:
+	idle:
+		Filename: assets/smoa.png
+		Start: 0
+		Length: 28
+
+frieght:
+	idle:
+		Filename: assets/frieght.png
+		Start: 0
+		Length: 24
+
+lens:
+	idle:
+		Filename: assets/lens.png
+		Start: 0
+		Length: 19
+
+bbit:
+	idle:
+		Filename: assets/bbit.png
+		Start: 0
+		Length: 16
+
+chob:
+	idle:
+		Filename: assets/chob.png
+		Start: 0
+		Length: 12
+
+sonic:
+	idle:
+		Filename: assets/sonic.png
+		Start: 0
+		Length: 24
+
+nuke:
+	idle:
+		Filename: assets/nuke.png
+		Start: 0
+		Length: 21
+
+scut:
+	idle:
+		Filename: assets/scut.png
+		Start: 0
+		Length: 11
+
+pcfo:
+	idle:
+		Filename: assets/pcfo.png
+		Start: 0
+		Length: 1
+
+muza:
+	idle:
+		Filename: assets/muza.png
+		Start: 0
+		Length: 4
+
+buildng:
+	idle:
+		Filename: assets/buildng.png
+		Start: 0
+		Length: 17
+
+glit:
+	idle:
+		Filename: assets/glit.png
+		Start: 0
+		Length: 20
+
+vent:
+	idle:
+		Filename: assets/vent.png
+		Start: 0
+		Length: 4
+
+vent2:
+	idle:
+		Filename: assets/vent2.png
+		Start: 0
+		Length: 2
+
+rnat:
+	idle:
+		Filename: assets/rnat.png
+		Start: 0
+		Length: 70
+
+mish:
+	idle:
+		Filename: assets/mish.png
+		Start: 0
+		Length: 30
+
+fire:
+	idle:
+		Filename: assets/fire.png
+		Start: 0
+		Length: 26
+
+choc:
+	idle:
+		Filename: assets/choc.png
+		Start: 0
+		Length: 8
+
+spak:
+	idle:
+		Filename: assets/spak.png
+		Start: 0
+		Length: 21
+
+makt:
+	idle:
+		Filename: assets/makt.png
+		Start: 0
+		Length: 20
+
+fira:
+	idle:
+		Filename: assets/fira.png
+		Start: 0
+		Length: 32
+
+cloc:
+	idle:
+		Filename: assets/cloc.png
+		Start: 0
+		Length: 36
+
+port:
+	idle:
+		Filename: assets/port.png
+		Start: 0
+		Length: 1
+
+psyc:
+	idle:
+		Filename: assets/psyc.png
+		Start: 0
+		Length: 123
+
+shri:
+	idle:
+		Filename: assets/shri.png
+		Start: 0
+		Length: 28
+
+bits:
+	idle:
+		Filename: assets/bits.png
+		Start: 0
+		Length: 23
+
+chod:
+	idle:
+		Filename: assets/chod.png
+		Start: 0
+		Length: 13
+
+spot:
+	idle:
+		Filename: assets/spot.png
+		Start: 0
+		Length: 19
+
+firb:
+	idle:
+		Filename: assets/firb.png
+		Start: 0
+		Length: 23
+
+hyyk:
+	idle:
+		Filename: assets/hyyk.png
+		Start: 0
+		Length: 28
+
+albu:
+	idle:
+		Filename: assets/albu.png
+		Start: 0
+		Length: 30
+
+smay:
+	idle:
+		Filename: assets/smay.png
+		Start: 0
+		Length: 13
+
+grnd:
+	idle:
+		Filename: assets/grnd.png
+		Start: 0
+		Length: 9
+
+engi:
+	idle:
+		Filename: assets/engi.png
+		Start: 0
+		Length: 29
+
+vcal:
+	idle:
+		Filename: assets/vcal.png
+		Start: 0
+		Length: 37
+
+turr:
+	idle:
+		Filename: assets/turr.png
+		Start: 0
+		Length: 60
+
+shumane:
+	idle:
+		Filename: assets/shumane.png
+		Start: 0
+		Length: 6
+
+dcss:
+	idle:
+		Filename: assets/dcss.png
+		Start: 0
+		Length: 15
+
+mdll:
+	idle:
+		Filename: assets/mdll.png
+		Start: 0
+		Length: 31
+
+client:
+	idle:
+		Filename: assets/client.png
+		Start: 0
+		Length: 51
+
+getsvre:
+	idle:
+		Filename: assets/getsvre.png
+		Start: 0
+		Length: 2
+
+button:
+	idle:
+		Filename: assets/button.png
+		Start: 0
+		Length: 114
+
+mdlj:
+	idle:
+		Filename: assets/mdlj.png
+		Start: 0
+		Length: 31
+
+whoo:
+	idle:
+		Filename: assets/whoo.png
+		Start: 0
+		Length: 92
+
+scne:
+	idle:
+		Filename: assets/scne.png
+		Start: 0
+		Length: 6
+
+mdlk:
+	idle:
+		Filename: assets/mdlk.png
+		Start: 0
+		Length: 31
+
+blew:
+	idle:
+		Filename: assets/blew.png
+		Start: 0
+		Length: 61
+
+mdli:
+	idle:
+		Filename: assets/mdli.png
+		Start: 0
+		Length: 31
+
+mdlh:
+	idle:
+		Filename: assets/mdlh.png
+		Start: 0
+		Length: 31
+
+newgame:
+	idle:
+		Filename: assets/newgame.png
+		Start: 0
+		Length: 6
+
+netbute:
+	idle:
+		Filename: assets/netbute.png
+		Start: 0
+		Length: 16
+
+sokaye:
+	idle:
+		Filename: assets/sokaye.png
+		Start: 0
+		Length: 4
+
+gloi:
+	idle:
+		Filename: assets/gloi.png
+		Start: 0
+		Length: 37
+
+multie:
+	idle:
+		Filename: assets/multie.png
+		Start: 0
+		Length: 5
+
+polo:
+	idle:
+		Filename: assets/polo.png
+		Start: 0
+		Length: 21
+
+font:
+	idle:
+		Filename: assets/font.png
+		Start: 0
+		Length: 122
+
+grdo:
+	idle:
+		Filename: assets/grdo.png
+		Start: 0
+		Length: 28
+
+hcar:
+	idle:
+		Filename: assets/hcar.png
+		Start: 0
+		Length: 9
+
+mfont:
+	idle:
+		Filename: assets/mfont.png
+		Start: 0
+		Length: 95
+
+level:
+	idle:
+		Filename: assets/level.png
+		Start: 0
+		Length: 51
+
+plasma:
+	idle:
+		Filename: assets/plasma.png
+		Start: 0
+		Length: 51
+
+hcom:
+	idle:
+		Filename: assets/hcom.png
+		Start: 0
+		Length: 9
+
+dcut:
+	idle:
+		Filename: assets/dcut.png
+		Start: 0
+		Length: 5
+
+introe:
+	idle:
+		Filename: assets/introe.png
+		Start: 0
+		Length: 10
+
+intro:
+	idle:
+		Filename: assets/intro.png
+		Start: 0
+		Length: 10
+
+acom:
+	idle:
+		Filename: assets/acom.png
+		Start: 0
+		Length: 9
+
+wind:
+	idle:
+		Filename: assets/wind.png
+		Start: 0
+		Length: 22
+
+knobe:
+	idle:
+		Filename: assets/knobe.png
+		Start: 0
+		Length: 149
+
+acar:
+	idle:
+		Filename: assets/acar.png
+		Start: 0
+		Length: 9
+
+epic:
+	idle:
+		Filename: assets/epic.png
+		Start: 0
+		Length: 7
+
+vcea:
+	idle:
+		Filename: assets/vcea.png
+		Start: 0
+		Length: 37
+
+lsg:
+	idle:
+		Filename: assets/lsg.png
+		Start: 0
+		Length: 4
+
+round:
+	idle:
+		Filename: assets/round.png
+		Start: 0
+		Length: 9
+
+diag:
+	idle:
+		Filename: assets/diag.png
+		Start: 0
+		Length: 29
+
+earths:
+	idle:
+		Filename: assets/earths.png
+		Start: 0
+		Length: 2
+
+globeg:
+	idle:
+		Filename: assets/globeg.png
+		Start: 0
+		Length: 21
+
+weath:
+	idle:
+		Filename: assets/weath.png
+		Start: 0
+		Length: 51
+
+dcuk:
+	idle:
+		Filename: assets/dcuk.png
+		Start: 0
+		Length: 14
+
+metr:
+	idle:
+		Filename: assets/metr.png
+		Start: 0
+		Length: 88
+
+earthg:
+	idle:
+		Filename: assets/earthg.png
+		Start: 0
+		Length: 101
+
+globes:
+	idle:
+		Filename: assets/globes.png
+		Start: 0
+		Length: 81
+
+mdle:
+	idle:
+		Filename: assets/mdle.png
+		Start: 0
+		Length: 31
+
+blogo:
+	idle:
+		Filename: assets/blogo.png
+		Start: 0
+		Length: 82
+
+mdld:
+	idle:
+		Filename: assets/mdld.png
+		Start: 0
+		Length: 31
+
+wlnt:
+	idle:
+		Filename: assets/wlnt.png
+		Start: 0
+		Length: 46
+
+mdlf:
+	idle:
+		Filename: assets/mdlf.png
+		Start: 0
+		Length: 31
+
+sgreye:
+	idle:
+		Filename: assets/sgreye.png
+		Start: 0
+		Length: 6
+
+dot:
+	idle:
+		Filename: assets/dot.png
+		Start: 0
+		Length: 12
+
+mdlg:
+	idle:
+		Filename: assets/mdlg.png
+		Start: 0
+		Length: 31
+
+mdlc:
+	idle:
+		Filename: assets/mdlc.png
+		Start: 0
+		Length: 31
+
+insee:
+	idle:
+		Filename: assets/insee.png
+		Start: 0
+		Length: 1
+
+mdlb:
+	idle:
+		Filename: assets/mdlb.png
+		Start: 0
+		Length: 31
+
+code:
+	idle:
+		Filename: assets/code.png
+		Start: 0
+		Length: 2
+
+mdla:
+	idle:
+		Filename: assets/mdla.png
+		Start: 0
+		Length: 31
+
+vcal:
+	idle:
+		Filename: assets/vcal.png
+		Start: 0
+		Length: 37
+
+flash:
+	idle:
+		Filename: assets/flash.png
+		Start: 0
+		Length: 9
+
+curs:
+	idle:
+		Filename: assets/curs.png
+		Start: 0
+		Length: 32
+
+lns:
+	idle:
+		Filename: assets/lns.png
+		Start: 0
+		Length: 66
+
+beon:
+	idle:
+		Filename: assets/beon.png
+		Start: 0
+		Length: 65
+
+hyk:
+	idle:
+		Filename: assets/hyk.png
+		Start: 0
+		Length: 66
+
+xeno:
+	idle:
+		Filename: assets/xeno.png
+		Start: 0
+		Length: 66
+
+lna:
+	idle:
+		Filename: assets/lna.png
+		Start: 0
+		Length: 66
+
+slug:
+	idle:
+		Filename: assets/slug.png
+		Start: 0
+		Length: 65
+
+ortu:
+	idle:
+		Filename: assets/ortu.png
+		Start: 0
+		Length: 65
+
+scgm:
+	idle:
+		Filename: assets/scgm.png
+		Start: 0
+		Length: 65
+
+reap:
+	idle:
+		Filename: assets/reap.png
+		Start: 0
+		Length: 66
+
+syth:
+	idle:
+		Filename: assets/syth.png
+		Start: 0
+		Length: 65
+
+slom:
+	idle:
+		Filename: assets/slom.png
+		Start: 0
+		Length: 65
+
+drop:
+	idle:
+		Filename: assets/drop.png
+		Start: 0
+		Length: 66
+
+barr:
+	idle:
+		Filename: assets/barr.png
+		Start: 0
+		Length: 65
+
+atril:
+	idle:
+		Filename: assets/atril.png
+		Start: 0
+		Length: 65
+
+psych:
+	idle:
+		Filename: assets/psych.png
+		Start: 0
+		Length: 66
+
+troop:
+	idle:
+		Filename: assets/troop.png
+		Start: 0
+		Length: 66
+
+zisp:
+	idle:
+		Filename: assets/zisp.png
+		Start: 0
+		Length: 66
+
+expl:
+	idle:
+		Filename: assets/expl.png
+		Start: 0
+		Length: 65
+
+sauc:
+	idle:
+		Filename: assets/sauc.png
+		Start: 0
+		Length: 66
+
+gray:
+	idle:
+		Filename: assets/gray.png
+		Start: 0
+		Length: 66
+
+tkt:
+	idle:
+		Filename: assets/tkt.png
+		Start: 0
+		Length: 66
+
+mkt:
+	idle:
+		Filename: assets/mkt.png
+		Start: 0
+		Length: 66
+
+cybo:
+	idle:
+		Filename: assets/cybo.png
+		Start: 0
+		Length: 65
+
+engi:
+	idle:
+		Filename: assets/engi.png
+		Start: 0
+		Length: 65
+
+turr:
+	idle:
+		Filename: assets/turr.png
+		Start: 0
+		Length: 65
+
+dcss:
+	idle:
+		Filename: assets/dcss.png
+		Start: 0
+		Length: 29
+
+misc:
+	idle:
+		Filename: assets/misc.png
+		Start: 0
+		Length: 18
+
+grub:
+	idle:
+		Filename: assets/grub.png
+		Start: 0
+		Length: 66
+
+avii:
+	idle:
+		Filename: assets/avii.png
+		Start: 0
+		Length: 92
+
+tong:
+	idle:
+		Filename: assets/tong.png
+		Start: 0
+		Length: 10
+
+misb:
+	idle:
+		Filename: assets/misb.png
+		Start: 0
+		Length: 22
+
+towr:
+	idle:
+		Filename: assets/towr.png
+		Start: 0
+		Length: 1
+
+chab:
+	idle:
+		Filename: assets/chab.png
+		Start: 0
+		Length: 29
+
+truk:
+	idle:
+		Filename: assets/truk.png
+		Start: 0
+		Length: 14
+
+spon:
+	idle:
+		Filename: assets/spon.png
+		Start: 0
+		Length: 13
+
+fluction:
+	idle:
+		Filename: assets/fluction.png
+		Start: 0
+		Length: 24
+
+spar:
+	idle:
+		Filename: assets/spar.png
+		Start: 0
+		Length: 29
+
+beon:
+	idle:
+		Filename: assets/beon.png
+		Start: 0
+		Length: 26
+
+aird:
+	idle:
+		Filename: assets/aird.png
+		Start: 0
+		Length: 9
+
+netd:
+	idle:
+		Filename: assets/netd.png
+		Start: 0
+		Length: 30
+
+xeno:
+	idle:
+		Filename: assets/xeno.png
+		Start: 0
+		Length: 114
+
+nete:
+	idle:
+		Filename: assets/nete.png
+		Start: 0
+		Length: 14
+
+smok:
+	idle:
+		Filename: assets/smok.png
+		Start: 0
+		Length: 15
+
+misa:
+	idle:
+		Filename: assets/misa.png
+		Start: 0
+		Length: 24
+
+spuc:
+	idle:
+		Filename: assets/spuc.png
+		Start: 0
+		Length: 16
+
+hubu:
+	idle:
+		Filename: assets/hubu.png
+		Start: 0
+		Length: 19
+
+chaa:
+	idle:
+		Filename: assets/chaa.png
+		Start: 0
+		Length: 24
+
+srch:
+	idle:
+		Filename: assets/srch.png
+		Start: 0
+		Length: 17
+
+mise:
+	idle:
+		Filename: assets/mise.png
+		Start: 0
+		Length: 12
+
+neta:
+	idle:
+		Filename: assets/neta.png
+		Start: 0
+		Length: 13
+
+saly:
+	idle:
+		Filename: assets/saly.png
+		Start: 0
+		Length: 80
+
+ssss:
+	idle:
+		Filename: assets/ssss.png
+		Start: 0
+		Length: 8
+
+smae:
+	idle:
+		Filename: assets/smae.png
+		Start: 0
+		Length: 21
+
+misd:
+	idle:
+		Filename: assets/misd.png
+		Start: 0
+		Length: 14
+
+dish:
+	idle:
+		Filename: assets/dish.png
+		Start: 0
+		Length: 3
+
+spac:
+	idle:
+		Filename: assets/spac.png
+		Start: 0
+		Length: 21
+
+beac:
+	idle:
+		Filename: assets/beac.png
+		Start: 0
+		Length: 2
+
+dsty:
+	idle:
+		Filename: assets/dsty.png
+		Start: 0
+		Length: 28
+
+msls:
+	idle:
+		Filename: assets/msls.png
+		Start: 0
+		Length: 8
+
+misf:
+	idle:
+		Filename: assets/misf.png
+		Start: 0
+		Length: 10
+
+netb:
+	idle:
+		Filename: assets/netb.png
+		Start: 0
+		Length: 12
+
+netc:
+	idle:
+		Filename: assets/netc.png
+		Start: 0
+		Length: 10
+
+scou:
+	idle:
+		Filename: assets/scou.png
+		Start: 0
+		Length: 9
+
+toxx:
+	idle:
+		Filename: assets/toxx.png
+		Start: 0
+		Length: 1
+
+misg:
+	idle:
+		Filename: assets/misg.png
+		Start: 0
+		Length: 32
+
+egg:
+	idle:
+		Filename: assets/egg.png
+		Start: 0
+		Length: 2
+
+more:
+	idle:
+		Filename: assets/more.png
+		Start: 0
+		Length: 20
+
+shortcit:
+	idle:
+		Filename: assets/shortcit.png
+		Start: 0
+		Length: 5
+
+brit:
+	idle:
+		Filename: assets/brit.png
+		Start: 0
+		Length: 11
+
+hith:
+	idle:
+		Filename: assets/hith.png
+		Start: 0
+		Length: 4
+
+timemis:
+	idle:
+		Filename: assets/timemis.png
+		Start: 0
+		Length: 24
+
+yaba:
+	idle:
+		Filename: assets/yaba.png
+		Start: 0
+		Length: 22
+
+trooper2:
+	idle:
+		Filename: assets/trooper2.png
+		Start: 0
+		Length: 32
+
+cent:
+	idle:
+		Filename: assets/cent.png
+		Start: 0
+		Length: 12
+
+tekt:
+	idle:
+		Filename: assets/tekt.png
+		Start: 0
+		Length: 9
+
+blam:
+	idle:
+		Filename: assets/blam.png
+		Start: 0
+		Length: 18
+
+blaz:
+	idle:
+		Filename: assets/blaz.png
+		Start: 0
+		Length: 2
+
+slug:
+	idle:
+		Filename: assets/slug.png
+		Start: 0
+		Length: 90
+
+ortu:
+	idle:
+		Filename: assets/ortu.png
+		Start: 0
+		Length: 86
+
+trooper1:
+	idle:
+		Filename: assets/trooper1.png
+		Start: 0
+		Length: 32
+
+scgm:
+	idle:
+		Filename: assets/scgm.png
+		Start: 0
+		Length: 30
+
+droa:
+	idle:
+		Filename: assets/droa.png
+		Start: 0
+		Length: 14
+
+scout1:
+	idle:
+		Filename: assets/scout1.png
+		Start: 0
+		Length: 24
+
+smsp:
+	idle:
+		Filename: assets/smsp.png
+		Start: 0
+		Length: 19
+
+glat:
+	idle:
+		Filename: assets/glat.png
+		Start: 0
+		Length: 18
+
+curs:
+	idle:
+		Filename: assets/curs.png
+		Start: 0
+		Length: 38
+
+it:
+	idle:
+		Filename: assets/it.png
+		Start: 0
+		Length: 11
+
+boig:
+	idle:
+		Filename: assets/boig.png
+		Start: 0
+		Length: 2
+
+fetu:
+	idle:
+		Filename: assets/fetu.png
+		Start: 0
+		Length: 2
+
+llll:
+	idle:
+		Filename: assets/llll.png
+		Start: 0
+		Length: 5
+
+gasy:
+	idle:
+		Filename: assets/gasy.png
+		Start: 0
+		Length: 21
+
+reap:
+	idle:
+		Filename: assets/reap.png
+		Start: 0
+		Length: 108
+
+attack2:
+	idle:
+		Filename: assets/attack2.png
+		Start: 0
+		Length: 24
+
+hcar:
+	idle:
+		Filename: assets/hcar.png
+		Start: 0
+		Length: 27
+
+slom:
+	idle:
+		Filename: assets/slom.png
+		Start: 0
+		Length: 50
+
+camm:
+	idle:
+		Filename: assets/camm.png
+		Start: 0
+		Length: 17
+
+fill:
+	idle:
+		Filename: assets/fill.png
+		Start: 0
+		Length: 2
+
+level:
+	idle:
+		Filename: assets/level.png
+		Start: 0
+		Length: 50
+
+luna:
+	idle:
+		Filename: assets/luna.png
+		Start: 0
+		Length: 21
+
+drop:
+	idle:
+		Filename: assets/drop.png
+		Start: 0
+		Length: 2
+
+plasma:
+	idle:
+		Filename: assets/plasma.png
+		Start: 0
+		Length: 50
+
+shok:
+	idle:
+		Filename: assets/shok.png
+		Start: 0
+		Length: 11
+
+barr:
+	idle:
+		Filename: assets/barr.png
+		Start: 0
+		Length: 106
+
+atril:
+	idle:
+		Filename: assets/atril.png
+		Start: 0
+		Length: 113
+
+hcom:
+	idle:
+		Filename: assets/hcom.png
+		Start: 0
+		Length: 9
+
+tektara:
+	idle:
+		Filename: assets/tektara.png
+		Start: 0
+		Length: 64
+
+popppaen:
+	idle:
+		Filename: assets/popppaen.png
+		Start: 0
+		Length: 1
+
+dcut:
+	idle:
+		Filename: assets/dcut.png
+		Start: 0
+		Length: 5
+
+blah:
+	idle:
+		Filename: assets/blah.png
+		Start: 0
+		Length: 31
+
+bees:
+	idle:
+		Filename: assets/bees.png
+		Start: 0
+		Length: 29
+
+spike:
+	idle:
+		Filename: assets/spike.png
+		Start: 0
+		Length: 4
+
+hita:
+	idle:
+		Filename: assets/hita.png
+		Start: 0
+		Length: 9
+
+pusb:
+	idle:
+		Filename: assets/pusb.png
+		Start: 0
+		Length: 15
+
+encf:
+	idle:
+		Filename: assets/encf.png
+		Start: 0
+		Length: 27
+
+cryo:
+	idle:
+		Filename: assets/cryo.png
+		Start: 0
+		Length: 1
+
+mwic:
+	idle:
+		Filename: assets/mwic.png
+		Start: 0
+		Length: 8
+
+mwib:
+	idle:
+		Filename: assets/mwib.png
+		Start: 0
+		Length: 12
+
+glot:
+	idle:
+		Filename: assets/glot.png
+		Start: 0
+		Length: 24
+
+acom:
+	idle:
+		Filename: assets/acom.png
+		Start: 0
+		Length: 9
+
+tort:
+	idle:
+		Filename: assets/tort.png
+		Start: 0
+		Length: 10
+
+cyborg:
+	idle:
+		Filename: assets/cyborg.png
+		Start: 0
+		Length: 32
+
+winf:
+	idle:
+		Filename: assets/winf.png
+		Start: 0
+		Length: 12
+
+spid:
+	idle:
+		Filename: assets/spid.png
+		Start: 0
+		Length: 66
+
+sera:
+	idle:
+		Filename: assets/sera.png
+		Start: 0
+		Length: 8
+
+bloo:
+	idle:
+		Filename: assets/bloo.png
+		Start: 0
+		Length: 69
+
+luny:
+	idle:
+		Filename: assets/luny.png
+		Start: 0
+		Length: 15
+
+arty:
+	idle:
+		Filename: assets/arty.png
+		Start: 0
+		Length: 31
+
+trsc:
+	idle:
+		Filename: assets/trsc.png
+		Start: 0
+		Length: 209
+
+serc:
+	idle:
+		Filename: assets/serc.png
+		Start: 0
+		Length: 46
+
+wind:
+	idle:
+		Filename: assets/wind.png
+		Start: 0
+		Length: 21
+
+hitb:
+	idle:
+		Filename: assets/hitb.png
+		Start: 0
+		Length: 10
+
+ence:
+	idle:
+		Filename: assets/ence.png
+		Start: 0
+		Length: 22
+
+sarg:
+	idle:
+		Filename: assets/sarg.png
+		Start: 0
+		Length: 198
+
+matatrac:
+	idle:
+		Filename: assets/matatrac.png
+		Start: 0
+		Length: 25
+
+watc:
+	idle:
+		Filename: assets/watc.png
+		Start: 0
+		Length: 13
+
+mwia:
+	idle:
+		Filename: assets/mwia.png
+		Start: 0
+		Length: 10
+
+alien1:
+	idle:
+		Filename: assets/alien1.png
+		Start: 0
+		Length: 32
+
+knobe:
+	idle:
+		Filename: assets/knobe.png
+		Start: 0
+		Length: 149
+
+acar:
+	idle:
+		Filename: assets/acar.png
+		Start: 0
+		Length: 27
+
+encd:
+	idle:
+		Filename: assets/encd.png
+		Start: 0
+		Length: 16
+
+bigc:
+	idle:
+		Filename: assets/bigc.png
+		Start: 0
+		Length: 21
+
+zisp:
+	idle:
+		Filename: assets/zisp.png
+		Start: 0
+		Length: 72
+
+hitc:
+	idle:
+		Filename: assets/hitc.png
+		Start: 0
+		Length: 5
+
+vcea:
+	idle:
+		Filename: assets/vcea.png
+		Start: 0
+		Length: 37
+
+hitt:
+	idle:
+		Filename: assets/hitt.png
+		Start: 0
+		Length: 6
+
+wine:
+	idle:
+		Filename: assets/wine.png
+		Start: 0
+		Length: 8
+
+serb:
+	idle:
+		Filename: assets/serb.png
+		Start: 0
+		Length: 10
+
+sped:
+	idle:
+		Filename: assets/sped.png
+		Start: 0
+		Length: 29
+
+hitg:
+	idle:
+		Filename: assets/hitg.png
+		Start: 0
+		Length: 6
+
+wina:
+	idle:
+		Filename: assets/wina.png
+		Start: 0
+		Length: 12
+
+artiler2:
+	idle:
+		Filename: assets/artiler2.png
+		Start: 0
+		Length: 24
+
+expl:
+	idle:
+		Filename: assets/expl.png
+		Start: 0
+		Length: 50
+
+mwid:
+	idle:
+		Filename: assets/mwid.png
+		Start: 0
+		Length: 6
+
+fact:
+	idle:
+		Filename: assets/fact.png
+		Start: 0
+		Length: 3
+
+enca:
+	idle:
+		Filename: assets/enca.png
+		Start: 0
+		Length: 24
+
+fuel:
+	idle:
+		Filename: assets/fuel.png
+		Start: 0
+		Length: 1
+
+hitf:
+	idle:
+		Filename: assets/hitf.png
+		Start: 0
+		Length: 5
+
+weath:
+	idle:
+		Filename: assets/weath.png
+		Start: 0
+		Length: 50
+
+puff:
+	idle:
+		Filename: assets/puff.png
+		Start: 0
+		Length: 20
+
+sere:
+	idle:
+		Filename: assets/sere.png
+		Start: 0
+		Length: 16
+
+side:
+	idle:
+		Filename: assets/side.png
+		Start: 0
+		Length: 4
+
+dcuk:
+	idle:
+		Filename: assets/dcuk.png
+		Start: 0
+		Length: 14
+
+hitd:
+	idle:
+		Filename: assets/hitd.png
+		Start: 0
+		Length: 5
+
+winb:
+	idle:
+		Filename: assets/winb.png
+		Start: 0
+		Length: 16
+
+encc:
+	idle:
+		Filename: assets/encc.png
+		Start: 0
+		Length: 30
+
+encb:
+	idle:
+		Filename: assets/encb.png
+		Start: 0
+		Length: 14
+
+winc:
+	idle:
+		Filename: assets/winc.png
+		Start: 0
+		Length: 8
+
+dott:
+	idle:
+		Filename: assets/dott.png
+		Start: 0
+		Length: 1
+
+hite:
+	idle:
+		Filename: assets/hite.png
+		Start: 0
+		Length: 4
+
+serd:
+	idle:
+		Filename: assets/serd.png
+		Start: 0
+		Length: 18
+
+choa:
+	idle:
+		Filename: assets/choa.png
+		Start: 0
+		Length: 16
+
+sauc:
+	idle:
+		Filename: assets/sauc.png
+		Start: 0
+		Length: 9
+
+gray:
+	idle:
+		Filename: assets/gray.png
+		Start: 0
+		Length: 292
+
+duts:
+	idle:
+		Filename: assets/duts.png
+		Start: 0
+		Length: 18
+
+sala:
+	idle:
+		Filename: assets/sala.png
+		Start: 0
+		Length: 1
+
+scyt:
+	idle:
+		Filename: assets/scyt.png
+		Start: 0
+		Length: 127
+
+clod:
+	idle:
+		Filename: assets/clod.png
+		Start: 0
+		Length: 11
+
+smoa:
+	idle:
+		Filename: assets/smoa.png
+		Start: 0
+		Length: 28
+
+frieght:
+	idle:
+		Filename: assets/frieght.png
+		Start: 0
+		Length: 24
+
+lens:
+	idle:
+		Filename: assets/lens.png
+		Start: 0
+		Length: 19
+
+bbit:
+	idle:
+		Filename: assets/bbit.png
+		Start: 0
+		Length: 16
+
+chob:
+	idle:
+		Filename: assets/chob.png
+		Start: 0
+		Length: 12
+
+sonic:
+	idle:
+		Filename: assets/sonic.png
+		Start: 0
+		Length: 24
+
+nuke:
+	idle:
+		Filename: assets/nuke.png
+		Start: 0
+		Length: 21
+
+scut:
+	idle:
+		Filename: assets/scut.png
+		Start: 0
+		Length: 11
+
+pcfo:
+	idle:
+		Filename: assets/pcfo.png
+		Start: 0
+		Length: 1
+
+muza:
+	idle:
+		Filename: assets/muza.png
+		Start: 0
+		Length: 4
+
+buildng:
+	idle:
+		Filename: assets/buildng.png
+		Start: 0
+		Length: 17
+
+glit:
+	idle:
+		Filename: assets/glit.png
+		Start: 0
+		Length: 20
+
+vent:
+	idle:
+		Filename: assets/vent.png
+		Start: 0
+		Length: 4
+
+vent2:
+	idle:
+		Filename: assets/vent2.png
+		Start: 0
+		Length: 2
+
+rnat:
+	idle:
+		Filename: assets/rnat.png
+		Start: 0
+		Length: 70
+
+mish:
+	idle:
+		Filename: assets/mish.png
+		Start: 0
+		Length: 30
+
+fire:
+	idle:
+		Filename: assets/fire.png
+		Start: 0
+		Length: 26
+
+choc:
+	idle:
+		Filename: assets/choc.png
+		Start: 0
+		Length: 8
+
+spak:
+	idle:
+		Filename: assets/spak.png
+		Start: 0
+		Length: 21
+
+makt:
+	idle:
+		Filename: assets/makt.png
+		Start: 0
+		Length: 20
+
+fira:
+	idle:
+		Filename: assets/fira.png
+		Start: 0
+		Length: 32
+
+cloc:
+	idle:
+		Filename: assets/cloc.png
+		Start: 0
+		Length: 36
+
+port:
+	idle:
+		Filename: assets/port.png
+		Start: 0
+		Length: 1
+
+psyc:
+	idle:
+		Filename: assets/psyc.png
+		Start: 0
+		Length: 123
+
+shri:
+	idle:
+		Filename: assets/shri.png
+		Start: 0
+		Length: 28
+
+bits:
+	idle:
+		Filename: assets/bits.png
+		Start: 0
+		Length: 23
+
+chod:
+	idle:
+		Filename: assets/chod.png
+		Start: 0
+		Length: 13
+
+spot:
+	idle:
+		Filename: assets/spot.png
+		Start: 0
+		Length: 19
+
+firb:
+	idle:
+		Filename: assets/firb.png
+		Start: 0
+		Length: 23
+
+hyyk:
+	idle:
+		Filename: assets/hyyk.png
+		Start: 0
+		Length: 28
+
+albu:
+	idle:
+		Filename: assets/albu.png
+		Start: 0
+		Length: 30
+
+smay:
+	idle:
+		Filename: assets/smay.png
+		Start: 0
+		Length: 13
+
+grnd:
+	idle:
+		Filename: assets/grnd.png
+		Start: 0
+		Length: 9
+
+engi:
+	idle:
+		Filename: assets/engi.png
+		Start: 0
+		Length: 29
+
+vcal:
+	idle:
+		Filename: assets/vcal.png
+		Start: 0
+		Length: 37
+
+turr:
+	idle:
+		Filename: assets/turr.png
+		Start: 0
+		Length: 60
+
+shumane:
+	idle:
+		Filename: assets/shumane.png
+		Start: 0
+		Length: 6
+
+dcss:
+	idle:
+		Filename: assets/dcss.png
+		Start: 0
+		Length: 15
+
+mdll:
+	idle:
+		Filename: assets/mdll.png
+		Start: 0
+		Length: 31
+
+client:
+	idle:
+		Filename: assets/client.png
+		Start: 0
+		Length: 51
+
+getsvre:
+	idle:
+		Filename: assets/getsvre.png
+		Start: 0
+		Length: 2
+
+button:
+	idle:
+		Filename: assets/button.png
+		Start: 0
+		Length: 114
+
+mdlj:
+	idle:
+		Filename: assets/mdlj.png
+		Start: 0
+		Length: 31
+
+whoo:
+	idle:
+		Filename: assets/whoo.png
+		Start: 0
+		Length: 92
+
+scne:
+	idle:
+		Filename: assets/scne.png
+		Start: 0
+		Length: 6
+
+mdlk:
+	idle:
+		Filename: assets/mdlk.png
+		Start: 0
+		Length: 31
+
+blew:
+	idle:
+		Filename: assets/blew.png
+		Start: 0
+		Length: 61
+
+mdli:
+	idle:
+		Filename: assets/mdli.png
+		Start: 0
+		Length: 31
+
+mdlh:
+	idle:
+		Filename: assets/mdlh.png
+		Start: 0
+		Length: 31
+
+newgame:
+	idle:
+		Filename: assets/newgame.png
+		Start: 0
+		Length: 6
+
+netbute:
+	idle:
+		Filename: assets/netbute.png
+		Start: 0
+		Length: 16
+
+sokaye:
+	idle:
+		Filename: assets/sokaye.png
+		Start: 0
+		Length: 4
+
+gloi:
+	idle:
+		Filename: assets/gloi.png
+		Start: 0
+		Length: 37
+
+multie:
+	idle:
+		Filename: assets/multie.png
+		Start: 0
+		Length: 5
+
+polo:
+	idle:
+		Filename: assets/polo.png
+		Start: 0
+		Length: 21
+
+font:
+	idle:
+		Filename: assets/font.png
+		Start: 0
+		Length: 122
+
+grdo:
+	idle:
+		Filename: assets/grdo.png
+		Start: 0
+		Length: 28
+
+hcar:
+	idle:
+		Filename: assets/hcar.png
+		Start: 0
+		Length: 9
+
+mfont:
+	idle:
+		Filename: assets/mfont.png
+		Start: 0
+		Length: 95
+
+level:
+	idle:
+		Filename: assets/level.png
+		Start: 0
+		Length: 51
+
+plasma:
+	idle:
+		Filename: assets/plasma.png
+		Start: 0
+		Length: 51
+
+hcom:
+	idle:
+		Filename: assets/hcom.png
+		Start: 0
+		Length: 9
+
+dcut:
+	idle:
+		Filename: assets/dcut.png
+		Start: 0
+		Length: 5
+
+introe:
+	idle:
+		Filename: assets/introe.png
+		Start: 0
+		Length: 10
+
+intro:
+	idle:
+		Filename: assets/intro.png
+		Start: 0
+		Length: 10
+
+acom:
+	idle:
+		Filename: assets/acom.png
+		Start: 0
+		Length: 9
+
+wind:
+	idle:
+		Filename: assets/wind.png
+		Start: 0
+		Length: 22
+
+knobe:
+	idle:
+		Filename: assets/knobe.png
+		Start: 0
+		Length: 149
+
+acar:
+	idle:
+		Filename: assets/acar.png
+		Start: 0
+		Length: 9
+
+epic:
+	idle:
+		Filename: assets/epic.png
+		Start: 0
+		Length: 7
+
+vcea:
+	idle:
+		Filename: assets/vcea.png
+		Start: 0
+		Length: 37
+
+lsg:
+	idle:
+		Filename: assets/lsg.png
+		Start: 0
+		Length: 4
+
+round:
+	idle:
+		Filename: assets/round.png
+		Start: 0
+		Length: 9
+
+diag:
+	idle:
+		Filename: assets/diag.png
+		Start: 0
+		Length: 29
+
+earths:
+	idle:
+		Filename: assets/earths.png
+		Start: 0
+		Length: 2
+
+globeg:
+	idle:
+		Filename: assets/globeg.png
+		Start: 0
+		Length: 21
+
+weath:
+	idle:
+		Filename: assets/weath.png
+		Start: 0
+		Length: 51
+
+dcuk:
+	idle:
+		Filename: assets/dcuk.png
+		Start: 0
+		Length: 14
+
+metr:
+	idle:
+		Filename: assets/metr.png
+		Start: 0
+		Length: 88
+
+earthg:
+	idle:
+		Filename: assets/earthg.png
+		Start: 0
+		Length: 101
+
+globes:
+	idle:
+		Filename: assets/globes.png
+		Start: 0
+		Length: 81
+
+mdle:
+	idle:
+		Filename: assets/mdle.png
+		Start: 0
+		Length: 31
+
+blogo:
+	idle:
+		Filename: assets/blogo.png
+		Start: 0
+		Length: 82
+
+mdld:
+	idle:
+		Filename: assets/mdld.png
+		Start: 0
+		Length: 31
+
+wlnt:
+	idle:
+		Filename: assets/wlnt.png
+		Start: 0
+		Length: 46
+
+mdlf:
+	idle:
+		Filename: assets/mdlf.png
+		Start: 0
+		Length: 31
+
+sgreye:
+	idle:
+		Filename: assets/sgreye.png
+		Start: 0
+		Length: 6
+
+dot:
+	idle:
+		Filename: assets/dot.png
+		Start: 0
+		Length: 12
+
+mdlg:
+	idle:
+		Filename: assets/mdlg.png
+		Start: 0
+		Length: 31
+
+mdlc:
+	idle:
+		Filename: assets/mdlc.png
+		Start: 0
+		Length: 31
+
+insee:
+	idle:
+		Filename: assets/insee.png
+		Start: 0
+		Length: 1
+
+mdlb:
+	idle:
+		Filename: assets/mdlb.png
+		Start: 0
+		Length: 31
+
+code:
+	idle:
+		Filename: assets/code.png
+		Start: 0
+		Length: 2
+
+mdla:
+	idle:
+		Filename: assets/mdla.png
+		Start: 0
+		Length: 31
+
+vcal:
+	idle:
+		Filename: assets/vcal.png
+		Start: 0
+		Length: 37
+
+flash:
+	idle:
+		Filename: assets/flash.png
+		Start: 0
+		Length: 9
+

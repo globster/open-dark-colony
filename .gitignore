@@ -21,6 +21,13 @@ mods/dc/sequences/assets-hd/
 .DS_Store
 Thumbs.db
 
+# Disc images (users supply their own game files)
+*.nrg
+*.iso
+*.img
+*.bin
+*.cue
+
 # Temporary
 /tmp/
 *.log

@@ -40,6 +40,8 @@ class Program
                     extractSprites = false;
                     extractTerrain = false;
                     break;
+                case "--collage" when i + 1 < args.Length:
+                    return BuildCollage(args[++i]);
                 case "--help":
                 case "-h":
                     PrintUsage();
@@ -260,6 +262,30 @@ class Program
             files.AddRange(Directory.GetFiles(directory, pattern, SearchOption.AllDirectories));
         }
         return files.Distinct().ToArray();
+    }
+
+    static int BuildCollage(string assetsDir)
+    {
+        // Key units from both factions + buildings + effects + creatures
+        var units = new[]
+        {
+            // Human faction
+            "troop", "trooper1", "trooper2", "sarg", "reap", "arty", "expl",
+            "hcom", "hcar", "engi", "scou", "barr", "cyborg", "towr", "turr",
+            // Taar faction
+            "gray", "atril", "slom", "ortu", "zisp", "xeno", "slug",
+            "alien1", "bees", "psych", "sauc", "spid", "tong", "syth",
+            // Buildings
+            "buildng", "cent", "fact", "fuel", "hubu",
+            // Effects & misc
+            "drop", "beac", "vent", "cryo", "nuke", "sonic", "fire",
+            // Vehicles
+            "truk", "aird", "avii", "camm", "brit",
+        };
+
+        string outputPath = Path.Combine(assetsDir, "..", "collage.png");
+        CollageBuilder.BuildCollage(assetsDir, outputPath, units, columns: 8, cellSize: 96, padding: 6);
+        return 0;
     }
 
     static void PrintUsage()

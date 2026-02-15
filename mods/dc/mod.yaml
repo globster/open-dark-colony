@@ -57,6 +57,7 @@ Rules:
 	dc|rules/taar.yaml:
 
 Sequences:
+	dc|sequences/extracted.yaml:
 	dc|sequences/humans.yaml:
 	dc|sequences/taar.yaml:
 	dc|sequences/terrain.yaml:

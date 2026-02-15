@@ -1,0 +1,20 @@
+MapFormat: 11
+RequiresMod: dc
+
+Title: Dark Colony - d8play03
+Author: Dark Colony Asset Extractor
+Tileset: MARS
+MapSize: 160, 140
+Bounds: 2, 2, 156, 136
+Visibility: Lobby
+
+Players:
+	Neutral:
+		Name: Neutral
+		OwnsWorld: True
+		NonCombatant: True
+		Faction: humans
+
+Actors:
+
+Rules:
