@@ -1,0 +1,45 @@
+gray:
+	Inherits: ^Infantry
+	Buildable:
+		Queue: Infantry
+		BuildPaletteOrder: 10
+		Prerequisites: ~mindhive
+	Valued:
+		Cost: 100
+	Tooltip:
+		Name: Gray
+		Description: Basic Taar infantry. Quick and nimble.
+	Armament:
+		Weapon: GrayBlaster
+	WithInfantryBody:
+		DefaultAttackSequence: attack
+
+brozaar:
+	Inherits: ^Harvester
+	Buildable:
+		Queue: Vehicle
+		BuildPaletteOrder: 10
+		Prerequisites: ~mindhive
+	Valued:
+		Cost: 500
+	Tooltip:
+		Name: Brozaar
+		Description: Taar resource harvester.
+
+sydemon:
+	Inherits: ^Vehicle
+	Buildable:
+		Queue: Vehicle
+		BuildPaletteOrder: 20
+		Prerequisites: ~mindhive
+	Valued:
+		Cost: 400
+	Tooltip:
+		Name: Sy-Demon
+		Description: Fast melee assault creature. Devastating at close range.
+	Health:
+		HP: 22000
+	Mobile:
+		Speed: 85
+	Armament:
+		Weapon: SyDemonClaw

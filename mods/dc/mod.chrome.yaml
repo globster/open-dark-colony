@@ -1,0 +1,5 @@
+Background@MAINMENU:
+	X: 0
+	Y: 0
+	Width: WINDOW_RIGHT
+	Height: WINDOW_BOTTOM

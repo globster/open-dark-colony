@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenRA.Mods.DC", "OpenRA.Mods.DC\OpenRA.Mods.DC.csproj", "{A7106006-3EF5-4900-A6D5-3A4E8B7C7E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkColony.AssetExtractor", "tools\DarkColony.AssetExtractor\DarkColony.AssetExtractor.csproj", "{B8201006-4EF6-5A11-B7E6-4B5F9C8D8F12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7106006-3EF5-4900-A6D5-3A4E8B7C7E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7106006-3EF5-4900-A6D5-3A4E8B7C7E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7106006-3EF5-4900-A6D5-3A4E8B7C7E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7106006-3EF5-4900-A6D5-3A4E8B7C7E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8201006-4EF6-5A11-B7E6-4B5F9C8D8F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8201006-4EF6-5A11-B7E6-4B5F9C8D8F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8201006-4EF6-5A11-B7E6-4B5F9C8D8F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8201006-4EF6-5A11-B7E6-4B5F9C8D8F12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

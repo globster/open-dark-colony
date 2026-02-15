@@ -1,0 +1,26 @@
+# OpenRA engine (fetched at build time)
+engine/
+
+# Build output
+bin/
+obj/
+*.dll
+*.pdb
+
+# Extracted assets (users supply their own game files)
+mods/dc/sequences/assets/
+mods/dc/sequences/assets-hd/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+/tmp/
+*.log

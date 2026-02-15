@@ -1,0 +1,29 @@
+GrayBlaster:
+	ReloadDelay: 25
+	Range: 4c0
+	Report: gray-fire
+	Projectile:
+		InstantHit:
+	Warhead@1Dam:
+		SpreadDamage:
+			Damage: 2500
+			Versus:
+				Light: 100
+				Heavy: 50
+				Concrete: 25
+			DamageTypes: SmallArms
+
+SyDemonClaw:
+	ReloadDelay: 35
+	Range: 2c0
+	Report: sydemon-attack
+	Projectile:
+		InstantHit:
+	Warhead@1Dam:
+		SpreadDamage:
+			Damage: 8000
+			Versus:
+				Light: 100
+				Heavy: 100
+				Concrete: 40
+			DamageTypes: Melee

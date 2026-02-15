@@ -1,0 +1,9 @@
+World:
+	IndexedPalette@dc:
+		Name: dc
+		BasePalette: dc
+	PaletteFromCurrentTileset:
+		Name: terrain
+	PlayerColorShift@player:
+		BasePalette: dc
+		PlayerIndex: 138, 139, 140, 141, 142, 143

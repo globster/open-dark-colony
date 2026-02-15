@@ -1,0 +1,25 @@
+Player:
+	PlayerResources:
+		DefaultCash: 5000
+	ProductionQueue@Building:
+		Type: Building
+		ReadyAudio: BuildingReady
+	ProductionQueue@Infantry:
+		Type: Infantry
+		ReadyAudio: UnitReady
+	ProductionQueue@Vehicle:
+		Type: Vehicle
+		ReadyAudio: UnitReady
+	PlaceBuilding:
+	ClassicProductionQueue@Building:
+		Type: Building
+	ClassicProductionQueue@Infantry:
+		Type: Infantry
+	ClassicProductionQueue@Vehicle:
+		Type: Vehicle
+	PlayerColorShift:
+	BaseAttackNotifier:
+	ConquestVictoryConditions:
+	FrozenActorLayer:
+	Shroud:
+	DeveloperMode:

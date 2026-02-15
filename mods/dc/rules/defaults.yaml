@@ -1,0 +1,131 @@
+^Infantry:
+	Inherits@1: ^ExistsInWorld
+	Inherits@2: ^GainsExperience
+	Inherits@3: ^Selectable
+	Mobile:
+		Locomotor: foot
+		Speed: 56
+	Health:
+		HP: 10000
+	Armor:
+		Type: Light
+	RevealsShroud:
+		Range: 5c0
+	HitShape:
+	Voiced:
+	WithInfantryBody:
+		DefaultAttackSequence: attack
+	AttackFrontal:
+		FacingTolerance: 0
+	AutoTarget:
+	AutoTargetPriority@DEFAULT:
+		ValidTargets: Ground
+	Selectable:
+		Bounds: 24, 24
+	Targetable:
+		TargetTypes: Ground, Infantry
+	MapEditorData:
+		Categories: Infantry
+
+^Vehicle:
+	Inherits@1: ^ExistsInWorld
+	Inherits@2: ^GainsExperience
+	Inherits@3: ^Selectable
+	Mobile:
+		Locomotor: wheeled
+		Speed: 71
+	Health:
+		HP: 20000
+	Armor:
+		Type: Heavy
+	RevealsShroud:
+		Range: 6c0
+	HitShape:
+	Voiced:
+	WithFacingSpriteBody:
+	AttackFrontal:
+		FacingTolerance: 0
+	AutoTarget:
+	AutoTargetPriority@DEFAULT:
+		ValidTargets: Ground
+	Selectable:
+		Bounds: 32, 32
+	Targetable:
+		TargetTypes: Ground, Vehicle
+	MapEditorData:
+		Categories: Vehicle
+
+^Building:
+	Inherits@1: ^ExistsInWorld
+	Inherits@2: ^Selectable
+	Building:
+		Dimensions: 3, 3
+	Health:
+		HP: 40000
+	Armor:
+		Type: Concrete
+	RevealsShroud:
+		Range: 4c0
+	HitShape:
+	WithSpriteBody:
+	Selectable:
+		Bounds: 96, 96
+	Targetable:
+		TargetTypes: Ground, Structure
+	MapEditorData:
+		Categories: Building
+
+^Aircraft:
+	Inherits@1: ^ExistsInWorld
+	Inherits@2: ^GainsExperience
+	Inherits@3: ^Selectable
+	Aircraft:
+		CruiseAltitude: 1c0
+		Speed: 112
+	Health:
+		HP: 15000
+	Armor:
+		Type: Light
+	RevealsShroud:
+		Range: 8c0
+	HitShape:
+	Voiced:
+	WithFacingSpriteBody:
+	Selectable:
+		Bounds: 32, 32
+	Targetable:
+		TargetTypes: Ground, Air
+	MapEditorData:
+		Categories: Aircraft
+
+^Harvester:
+	Inherits: ^Vehicle
+	Harvester:
+		Resources: Petra7
+		SearchFromProcRadius: 24
+		SearchFromHarvesterRadius: 12
+	WithHarvestAnimation:
+	MapEditorData:
+		Categories: Vehicle
+
+^ExistsInWorld:
+	AppearsOnRadar:
+	CombatDebugOverlay:
+	GivesExperience:
+	RenderSprites:
+	BodyOrientation:
+		QuantizedFacings: 8
+	QuantizeFacingsFromSequence:
+	Repairable:
+	UpdatesPlayerStatistics:
+
+^GainsExperience:
+	GainsExperience:
+		Conditions:
+			200: rank-veteran
+			400: rank-elite
+
+^Selectable:
+	Selectable:
+	DrawLineToTarget:
+	Interactable:

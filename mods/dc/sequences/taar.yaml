@@ -1,0 +1,66 @@
+gray:
+	idle:
+		Filename: assets/gray.png
+		Start: 0
+		Length: 1
+		Facings: 8
+	walk:
+		Filename: assets/gray.png
+		Start: 8
+		Length: 8
+		Facings: 8
+	attack:
+		Filename: assets/gray.png
+		Start: 72
+		Length: 4
+		Facings: 8
+	die:
+		Filename: assets/gray.png
+		Start: 104
+		Length: 8
+		Facings: 1
+
+brozaar:
+	idle:
+		Filename: assets/brozaar.png
+		Start: 0
+		Length: 1
+		Facings: 8
+	move:
+		Filename: assets/brozaar.png
+		Start: 8
+		Length: 8
+		Facings: 8
+	harvest:
+		Filename: assets/brozaar.png
+		Start: 72
+		Length: 8
+		Facings: 8
+
+sydemon:
+	idle:
+		Filename: assets/sydemon.png
+		Start: 0
+		Length: 1
+		Facings: 8
+	move:
+		Filename: assets/sydemon.png
+		Start: 8
+		Length: 8
+		Facings: 8
+	attack:
+		Filename: assets/sydemon.png
+		Start: 72
+		Length: 4
+		Facings: 8
+	die:
+		Filename: assets/sydemon.png
+		Start: 104
+		Length: 8
+		Facings: 1
+
+mindhive:
+	idle:
+		Filename: assets/mindhive.png
+		Start: 0
+		Length: 1

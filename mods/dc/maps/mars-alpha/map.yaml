@@ -1,0 +1,54 @@
+MapFormat: 11
+RequiresMod: dc
+
+Title: Mars Alpha
+Author: Open Dark Colony Team
+Tileset: MARS
+MapSize: 66, 66
+Bounds: 2, 2, 62, 62
+Visibility: Lobby
+
+Players:
+	Neutral:
+		Name: Neutral
+		OwnsWorld: True
+		NonCombatant: True
+		Faction: humans
+	Creeps:
+		Name: Creeps
+		NonCombatant: True
+		Faction: humans
+	Multi0:
+		Name: Multi0
+		Playable: True
+		Faction: humans
+		AllowBots: True
+		LockFaction: False
+		LockColor: False
+		LockSpawn: False
+		LockTeam: False
+	Multi1:
+		Name: Multi1
+		Playable: True
+		Faction: taar
+		AllowBots: True
+		LockFaction: False
+		LockColor: False
+		LockSpawn: False
+		LockTeam: False
+
+Actors:
+	mpspawn0: mpspawn
+		Location: 10, 10
+		Owner: Multi0
+	mpspawn1: mpspawn
+		Location: 54, 54
+		Owner: Multi1
+	exocenter0: exocenter
+		Location: 8, 8
+		Owner: Multi0
+	mindhive0: mindhive
+		Location: 52, 52
+		Owner: Multi1
+
+Rules:

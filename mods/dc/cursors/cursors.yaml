@@ -1,0 +1,12 @@
+default:
+	Filename: cursors/default.png
+	Hotspot: 0, 0
+select:
+	Filename: cursors/default.png
+	Hotspot: 0, 0
+move:
+	Filename: cursors/default.png
+	Hotspot: 0, 0
+attack:
+	Filename: cursors/default.png
+	Hotspot: 0, 0

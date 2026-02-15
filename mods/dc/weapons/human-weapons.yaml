@@ -1,0 +1,31 @@
+TrooperRifle:
+	ReloadDelay: 25
+	Range: 4c0
+	Report: trooper-fire
+	Projectile:
+		InstantHit:
+	Warhead@1Dam:
+		SpreadDamage:
+			Damage: 2500
+			Versus:
+				Light: 100
+				Heavy: 50
+				Concrete: 25
+			DamageTypes: SmallArms
+
+ReaperCannon:
+	ReloadDelay: 40
+	Range: 5c0
+	Report: reaper-fire
+	Projectile:
+		Bullet:
+			Speed: 682
+			Image: bullet
+	Warhead@1Dam:
+		SpreadDamage:
+			Damage: 6000
+			Versus:
+				Light: 75
+				Heavy: 100
+				Concrete: 60
+			DamageTypes: Cannon

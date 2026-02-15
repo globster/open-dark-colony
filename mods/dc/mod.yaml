@@ -1,0 +1,144 @@
+Metadata:
+	Title: Open Dark Colony
+	Version: dev
+	Website: https://github.com/opendc
+	WindowTitle: Open Dark Colony
+	ContentPrompt: The original Dark Colony game files are required.
+
+PackageFormats:
+
+Packages:
+	~dc|mods/dc: dc
+	dc|bits:
+	dc|bits/audio:
+
+MapFolders:
+	dc|maps: System
+	~^maps/dc/{DEV_VERSION}: User
+
+Mod@dc:
+	ID: dc
+	Title: Open Dark Colony
+	Version: {DEV_VERSION}
+	Description: Open-source remake of Dark Colony using the OpenRA engine.
+
+MapGrid:
+	TileSize: 32,32
+	Type: Rectangular
+
+SpriteFormats: PngSheet
+
+SoundFormats: Wav
+
+Assemblies:
+	common|OpenRA.Mods.Common.dll:
+	dc|OpenRA.Mods.DC.dll:
+
+Factions:
+	humans:
+		Name: Pan Luma Colonists
+		InternalName: humans
+		Side: Humans
+		Color: 0000FF
+		Description: Humanity's frontier settlers, armed with advanced technology.
+	taar:
+		Name: Taar Alliance
+		InternalName: taar
+		Side: Taar
+		Color: FF0000
+		Description: Alien hive-mind warriors native to Mars.
+
+Rules:
+	dc|rules/defaults.yaml:
+	dc|rules/world.yaml:
+	dc|rules/player.yaml:
+	dc|rules/palettes.yaml:
+	dc|rules/humans.yaml:
+	dc|rules/taar.yaml:
+
+Sequences:
+	dc|sequences/humans.yaml:
+	dc|sequences/taar.yaml:
+	dc|sequences/terrain.yaml:
+	dc|sequences/effects.yaml:
+
+Weapons:
+	dc|weapons/human-weapons.yaml:
+	dc|weapons/taar-weapons.yaml:
+
+TileSets:
+	dc|tilesets/mars.yaml:
+
+Chrome:
+	dc|chrome/ingame.yaml:
+
+Cursors:
+	dc|cursors/cursors.yaml:
+
+Translations:
+	dc|fluent/en.ftl:
+
+Fonts:
+	Tiny:
+		Font: common|FreeSans.ttf
+		Size: 10
+		Ascender: 8
+	Small:
+		Font: common|FreeSans.ttf
+		Size: 12
+		Ascender: 9
+	Regular:
+		Font: common|FreeSans.ttf
+		Size: 14
+		Ascender: 11
+	Bold:
+		Font: common|FreeSansBold.ttf
+		Size: 14
+		Ascender: 11
+	MediumBold:
+		Font: common|FreeSansBold.ttf
+		Size: 18
+		Ascender: 14
+	Title:
+		Font: common|FreeSansBold.ttf
+		Size: 32
+		Ascender: 24
+
+DefaultOrderGenerator:
+	key: orders
+
+World:
+	dc|rules/world.yaml:
+
+Player:
+	dc|rules/player.yaml:
+
+ServerTraits:
+	LobbyCommands:
+	PlayerPinger:
+	MasterServerPinger:
+	LobbySettingsNotification:
+
+LoadScreen: BlankLoadScreen
+
+GameSpeeds:
+	slowest:
+		Name: Slowest
+		Timestep: 80
+		OrderLatency: 2
+	slower:
+		Name: Slower
+		Timestep: 50
+		OrderLatency: 3
+	default:
+		Name: Normal
+		Timestep: 40
+		OrderLatency: 3
+	fast:
+		Name: Fast
+		Timestep: 35
+		OrderLatency: 4
+	fastest:
+		Name: Fastest
+		Timestep: 20
+		OrderLatency: 6

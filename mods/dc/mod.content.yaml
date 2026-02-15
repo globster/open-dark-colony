@@ -1,0 +1,16 @@
+Packages:
+	ContentInstallerMod: dc
+
+Sources:
+	dc|installer/darkcolony.yaml:
+
+Downloads:
+
+ContentPackages:
+	base:
+		Title: Dark Colony Base Game
+		Required: true
+		Sources: darkcolony
+		Packages:
+			dc_base:
+		Install:

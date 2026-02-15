@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>OpenRA.Mods.DC</RootNamespace>
+    <AssemblyName>OpenRA.Mods.DC</AssemblyName>
+  </PropertyGroup>
+
+  <!-- Engine references will be resolved at build time via OpenRA engine -->
+  <!-- For development, reference the engine DLLs from the engine directory -->
+</Project>

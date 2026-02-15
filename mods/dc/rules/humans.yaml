@@ -1,0 +1,43 @@
+trooper:
+	Inherits: ^Infantry
+	Buildable:
+		Queue: Infantry
+		BuildPaletteOrder: 10
+		Prerequisites: ~exocenter
+	Valued:
+		Cost: 100
+	Tooltip:
+		Name: Trooper
+		Description: Basic human infantry. Effective against other infantry.
+	Armament:
+		Weapon: TrooperRifle
+	WithInfantryBody:
+		DefaultAttackSequence: attack
+
+exploiter:
+	Inherits: ^Harvester
+	Buildable:
+		Queue: Vehicle
+		BuildPaletteOrder: 10
+		Prerequisites: ~exocenter
+	Valued:
+		Cost: 500
+	Tooltip:
+		Name: Exploiter
+		Description: Harvests Petra-7 for processing.
+
+reaper:
+	Inherits: ^Vehicle
+	Buildable:
+		Queue: Vehicle
+		BuildPaletteOrder: 20
+		Prerequisites: ~exocenter
+	Valued:
+		Cost: 400
+	Tooltip:
+		Name: Reaper
+		Description: Heavy assault vehicle with powerful cannon.
+	Health:
+		HP: 25000
+	Armament:
+		Weapon: ReaperCannon

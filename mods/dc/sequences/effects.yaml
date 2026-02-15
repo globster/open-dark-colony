@@ -1,0 +1,11 @@
+explosion:
+	idle:
+		Filename: assets/explosion.png
+		Start: 0
+		Length: 8
+
+bullet:
+	idle:
+		Filename: assets/bullet.png
+		Start: 0
+		Length: 1

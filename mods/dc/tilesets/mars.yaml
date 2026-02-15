@@ -1,0 +1,52 @@
+General:
+	Name: Mars
+	Id: MARS
+	SheetSize: 2048
+	SheetFormat: BGRA
+	HeightDebugColors:
+		0: FF000000
+		5: FF101010
+		10: FF202020
+
+Terrain:
+	Clear:
+		Type: Clear
+		Color: CC6633
+		TargetTypes: Ground
+	Rock:
+		Type: Rock
+		Color: 996633
+		TargetTypes: Ground
+	Impassable:
+		Type: Impassable
+		Color: 333333
+	Vent:
+		Type: Vent
+		Color: FFCC00
+		TargetTypes: Ground
+
+Templates:
+	0:
+		Id: 0
+		Size: 1, 1
+		Images: clear1
+		Tiles:
+			0: Clear
+	1:
+		Id: 1
+		Size: 1, 1
+		Images: rock1
+		Tiles:
+			0: Rock
+	2:
+		Id: 2
+		Size: 1, 1
+		Images: impassable1
+		Tiles:
+			0: Impassable
+	3:
+		Id: 3
+		Size: 1, 1
+		Images: vent1
+		Tiles:
+			0: Vent

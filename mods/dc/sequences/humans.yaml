@@ -1,0 +1,66 @@
+trooper:
+	idle:
+		Filename: assets/trooper.png
+		Start: 0
+		Length: 1
+		Facings: 8
+	walk:
+		Filename: assets/trooper.png
+		Start: 8
+		Length: 8
+		Facings: 8
+	attack:
+		Filename: assets/trooper.png
+		Start: 72
+		Length: 4
+		Facings: 8
+	die:
+		Filename: assets/trooper.png
+		Start: 104
+		Length: 8
+		Facings: 1
+
+exploiter:
+	idle:
+		Filename: assets/exploiter.png
+		Start: 0
+		Length: 1
+		Facings: 8
+	move:
+		Filename: assets/exploiter.png
+		Start: 8
+		Length: 8
+		Facings: 8
+	harvest:
+		Filename: assets/exploiter.png
+		Start: 72
+		Length: 8
+		Facings: 8
+
+reaper:
+	idle:
+		Filename: assets/reaper.png
+		Start: 0
+		Length: 1
+		Facings: 8
+	move:
+		Filename: assets/reaper.png
+		Start: 8
+		Length: 8
+		Facings: 8
+	attack:
+		Filename: assets/reaper.png
+		Start: 72
+		Length: 4
+		Facings: 8
+	die:
+		Filename: assets/reaper.png
+		Start: 104
+		Length: 8
+		Facings: 1
+
+exocenter:
+	idle:
+		Filename: assets/exocenter.png
+		Start: 0
+		Length: 1

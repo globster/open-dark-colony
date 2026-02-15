@@ -1,0 +1,108 @@
+World:
+	Faction@humans:
+		Name: humans
+		InternalName: humans
+		Description: Pan Luma Colonists\nHumanity's frontier settlers, armed with advanced technology.
+		Side: Humans
+		RandomFactionMembers: humans
+	Faction@taar:
+		Name: taar
+		InternalName: taar
+		Description: Taar Alliance\nAlien hive-mind warriors native to Mars.
+		Side: Taar
+		RandomFactionMembers: taar
+	ResourceType@Petra7:
+		Type: Petra7
+		Name: Petra-7
+		PipColor: Yellow
+		ResourceIndex: 1
+		TerrainType: Vent
+		AllowedTerrainTypes: Clear, Vent
+		ValuePerUnit: 25
+		MaxDensity: 25
+		Image: petra7
+		Sequences: idle
+	Locomotor@foot:
+		Name: foot
+		TerrainSpeeds:
+			Clear: 100
+			Rock: 60
+			Road: 120
+	Locomotor@wheeled:
+		Name: wheeled
+		TerrainSpeeds:
+			Clear: 100
+			Rock: 40
+			Road: 130
+	MusicPlaylist:
+	MapCreeps:
+	CreateMapPlayers:
+	SpawnMapActors:
+	ShroudRenderer:
+	SmudgeLayer:
+	ResourceLayer:
+	ActorMap:
+	PathFinder:
+	ScreenShaker:
+	Selection:
+	TerrainRenderer:
+
+mpspawn:
+	Interactable:
+	EditorOnlyTooltip:
+		Name: Multiplayer Spawn Point
+	AlwaysVisible:
+	MapEditorData:
+		Categories: System
+
+exocenter:
+	Inherits: ^Building
+	Buildable:
+		Queue: Building
+		BuildPaletteOrder: 10
+	Valued:
+		Cost: 2000
+	Tooltip:
+		Name: Exo Center
+		Description: Human command center. Produces vehicles and processes Petra-7.
+	Building:
+		Dimensions: 3, 3
+	BaseBuilding:
+	ProductionQueue@Vehicle:
+		Type: Vehicle
+		DisplayOrder: 1
+	ProductionQueue@Infantry:
+		Type: Infantry
+		DisplayOrder: 2
+	Dock:
+		Type: Unload
+	AcceptsDeliveredResources:
+	WithBuildingPlacedOverlay:
+	ProvidesPrerequisite:
+	RallyPoint:
+
+mindhive:
+	Inherits: ^Building
+	Buildable:
+		Queue: Building
+		BuildPaletteOrder: 10
+	Valued:
+		Cost: 2000
+	Tooltip:
+		Name: Mind Hive
+		Description: Taar command center. Spawns creatures and processes Petra-7.
+	Building:
+		Dimensions: 3, 3
+	BaseBuilding:
+	ProductionQueue@Vehicle:
+		Type: Vehicle
+		DisplayOrder: 1
+	ProductionQueue@Infantry:
+		Type: Infantry
+		DisplayOrder: 2
+	Dock:
+		Type: Unload
+	AcceptsDeliveredResources:
+	WithBuildingPlacedOverlay:
+	ProvidesPrerequisite:
+	RallyPoint:
